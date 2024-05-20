@@ -1,4 +1,7 @@
 package com.tpe.repository;
 
-public class TeacherRepository {
+import org.springframework.stereotype.Repository;
+
+@Repository
+public interface TeacherRepository {
 }

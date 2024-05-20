@@ -1,4 +1,7 @@
 package com.tpe.service;
 
-public class TeacherService {
+import org.springframework.stereotype.Service;
+
+@Service
+public interface TeacherService {
 }
